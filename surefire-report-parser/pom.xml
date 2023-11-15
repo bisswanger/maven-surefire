@@ -26,10 +26,10 @@
     <version>3.2.2</version>
   </parent>
 
-  <artifactId>surefire-report-parser</artifactId>
-
   <!-- Start custom -->
   <groupId>com.adobe.evergreen.eaas</groupId>
+
+  <artifactId>surefire-report-parser</artifactId>
   <version>3.2.2-adobe-custom</version>
   <!-- End custom -->
 
